@@ -17,3 +17,8 @@ The code isnt supportive to faces in the wild. The image used / the should be su
 
 Additionally the output also has the eyes , eyebrows and mouth marked. This is just for a reference for other types of filters.
 Uncomment the lines if u dont want this in the final product. 
+
+
+![test_2](https://user-images.githubusercontent.com/22176286/43700620-ef157410-9970-11e8-9c03-d1888f52f659.PNG)
+
+![test_1](https://user-images.githubusercontent.com/22176286/43700637-fde2b94e-9970-11e8-8e62-d1ba51fb4ab6.PNG)
